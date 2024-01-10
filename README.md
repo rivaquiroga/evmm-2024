@@ -24,9 +24,9 @@ Los siguientes atajos de teclado serán útiles al explorar las páginas web que
 
 ## Ejercicio práctico: extracción de texto de un sitio web
 
-🔗 [Página web que _escrapearemos_](https://prensa.presidencia.cl/discurso.aspx?id=278977)
+🔗 [La página web que _escrapearemos_](https://prensa.presidencia.cl/discurso.aspx?id=278977)
 
-:page_facing_up: [Código escrito en clases](https://www.dropbox.com/scl/fi/sqlfjpu4tb83faknd1xng/01_extraccion-texto.R?rlkey=nn8pmw1dcrofpy52sk9wv2i44&dl=0)
+:page_facing_up: [El código escrito en clases](https://www.dropbox.com/scl/fi/sqlfjpu4tb83faknd1xng/01_extraccion-texto.R?rlkey=nn8pmw1dcrofpy52sk9wv2i44&dl=0)
 
 ## Materiales de apoyo
 
