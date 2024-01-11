@@ -52,4 +52,8 @@ Los siguientes atajos de teclado serán útiles al explorar las páginas web que
 
 * Urdinez, F. & Cruz Labrín, A (Eds.): _AnalizaR datos políticos_. <https://arcruz0.github.io/libroadp/>
 * Wickham, H. & Grolemund, G.: _R para Ciencia de Datos_. <https://es.r4ds.hadley.nz/>
-* ¡Participar en la comunidad! Grupos de usuarios de R, capítulos de [R-Ladies](https://rladies.org/), eventos como [LatinR](https://latin-r.com/). 
+* ¡Participar en la comunidad! Grupos de usuarios de R, capítulos de [R-Ladies](https://rladies.org/), eventos como [LatinR](https://latin-r.com/).
+
+### Otras cosas
+
+* Internet Archive: https://web.archive.org/. Sirve para buscar versiones anteriores de un sitio web, buscar sitios que ya no están disponibles y para archivar una versión de una página web que no queremos que se pierda en el futuro.
