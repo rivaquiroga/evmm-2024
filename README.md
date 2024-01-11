@@ -1,8 +1,8 @@
 # Escuela de Verano de Métodos Mixtos
 
-Materiales del módulo "Minería de texto para el trabajo con archivos" (también conocido como "Archivos, web scraping y análisis de contenido") de la [Escuela de Verano de Métodos Mixtos](https://cienciapolitica.uc.cl/escuela-de-metodos-mixtos/emm-2024) organizada por el Instituto de Ciencia Política UC. 
+Materiales del módulo "Minería de texto para el trabajo con archivos" (también conocido como "Web scraping para el trabajo con archivos") de la [Escuela de Verano de Métodos Mixtos](https://cienciapolitica.uc.cl/escuela-de-metodos-mixtos/emm-2024) organizada por el Instituto de Ciencia Política UC. 
 
-Como el tema es muy amplio como para mostrar todo lo que se puede hacer durante 90 minutos, en el taller nos enfocaremos en la fase de adquisición de datos, es decir, en cómo extraer datos textuales para constituir un corpus de documentos para analizar en el futuro.
+Como el tema es muy amplio como para mostrar todo lo que se puede hacer durante 90 minutos, en el taller nos enfocaremos en la fase de adquisición de datos, es decir, en cómo extraer datos textuales para constituir un corpus de documentos para analizar en el futuro. 
 
 ## Preparación
 
